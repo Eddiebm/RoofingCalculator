@@ -7,12 +7,8 @@ export default function RoofingEstimator() {
     { name: "Ridge Cap Shingles Install", unit: "LF", rate: 1.66, qty: "" },
     { name: "Starter Row Install", unit: "LF", rate: 0.73, qty: "" },
     { name: "Felt Install", unit: "SQ", rate: 11.88, qty: "" },
-    { name: "Modified Bitumen Tear-Off", unit: "SQ", rate: 42.76, qty: "" },
-    { name: "Modified Bitumen Install", unit: "SQ", rate: 127.91, qty: "" },
-    { name: "Base Sheet Tear-Off", unit: "SQ", rate: 3.60, qty: "" },
-    { name: "Base Sheet Install", unit: "SQ", rate: 19.69, qty: "" },
-    { name: "Pipe Jack Flashing Install", unit: "EA", rate: 37.31, qty: "" },
-    { name: "Satellite Dish Reset", unit: "EA", rate: 46.62, qty: "" },
+    { name: "Ice & Water Shield Install", unit: "LF", rate: 1.17, qty: "" },
+    { name: "Drip Edge Install", unit: "LF", rate: 2.76, qty: "" },
   ]);
   const [materialsCost, setMaterialsCost] = useState(0);
 

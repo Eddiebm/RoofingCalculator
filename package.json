@@ -1,5 +1,5 @@
 {
-  "name": "roofing-estimator",
+  "name": "roofing-calculator",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
